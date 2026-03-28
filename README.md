@@ -1,3 +1,6 @@
-# movie-recommendation-system
-
-AI-powered movie recommendation engine
+# Movie Recommendation System
+> AI-powered movie recommendation engine using LLM APIs
+## Tech Stack
+- Java
+- Spring AI
+- LLM APIs
